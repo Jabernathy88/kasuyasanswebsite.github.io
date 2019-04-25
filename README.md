@@ -1,6 +1,6 @@
 # Beautiful Kimonos
 
-CSS template from Materize CSS. 
+CSS template from Materize CSS.
 
 Color schemes:
 
